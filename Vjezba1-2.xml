@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<osnovniPodaci>
+		<ime>Josip</ime>
+		<prezime>Jović</prezime>
+		<JMBG>123456789</JMBG>
+		<datumRodjenja>2001-9-11</datumrodjenja>
+		<godinaStudija>3</godinaStudija>
+	</osnovniPodaci>
+
+	<kontakt>
+		<e-mail>jakov.jozinovic.hejter@hate.com</e-mail>
+		<telefon>0981234567</telefon>
+	</kontakt>
+
+	<kolegiji>
+		<kolegij>
+			<naziv>Mikroekonomija</naziv>
+			<profesor>Tomislav Herceg</profesor>
+			<ects>9</ects>
+		</kolegij>
+
+		<kolegij>
+			<naziv>Glazbeni</naziv>
+			<profesor>Wolfgang Amadeus Mozart</profesor>
+			<ects>15</ects>
+		</kolegij>
+
+		<kolegij>
+			<naziv>Upotreba vatrenog oružja</naziv>
+			<profesor>Josip Dabro</profesor>
+			<ects>20</ects>
+		</kolegij>
+
+	</kolegiji>
+</student>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<osnovniPodaci>
+		<ime>Josip</ime>
+		<prezime>Jović</prezime>
+		<JMBG>123456789</JMBG>
+		<datumRodjenja>2001-9-11</datumrodjenja>
+		<godinaStudija>3</godinaStudija>
+		<studijskiProgram>Informatika</studijskiProgram>
+	</osnovniPodaci>
+
+	<adresa>
+		<ulica>Brezovička cesta</ulica>
+		<grad>Vinograd</grad>
+		<postanskiBr>225883</postanskiBr>
+	</adresa>
+</student>
