@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Marko</Ime>
+    <Prezime>Marković</Prezime>
+    
+    <MjestoStanovanja>
+        <Adresa>Ulica Fritule Hajduka 10</Adresa>
+        <Grad>Split</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    
+    <Kontakt>
+        <Mobitel>091 234 5678</Mobitel>
+        <KucniTelefon>021 123 456</KucniTelefon>
+        <Email>marko.markovic@fer.hr</Email>
+    </Kontakt>
+</Osoba>
