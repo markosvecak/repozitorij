@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Miroslav</Ime>
+    <Prezime>Miroslavović</Prezime>
+    
+    <MjestoStanovanja>
+        <Adresa>Dragomira Despića 10</Adresa>
+        <Grad>Desingerland</Grad>
+        <Drzava>GIGAdržava</Drzava>
+    </MjestoStanovanja>
+    
+    <NaručeniArtikl>
+        <Naziv>Tenisica</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>155.00</Cijena>
+    </NaručeniArtikl>
+</Narudzba>
