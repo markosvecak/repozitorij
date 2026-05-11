@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba>
+    <kupac>Marko Markić</kupac>
+    
+    <datumNarudzbe>2026-05-11</datumNarudzbe>
+    
+    <kolicina>15</kolicina>
+    
+    <statusNarudzbe>u_obradi</statusNarudzbe>
+    
+    <ukupanIznos valuta="EUR">149.50</ukupanIznos>
+</narudzba>
