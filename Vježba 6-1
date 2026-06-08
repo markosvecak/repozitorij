@@ -1,0 +1,69 @@
+{
+  "ime": "Petar",
+  "prezime": "Kovač",
+  "starost": 30,
+  "grad": "Zagreb",
+  "zaposlen": true,
+  "auti": [
+    {
+      "marka": "Ford",
+      "model": "Mustang",
+      "godina": 2018,
+      "boja": "crvena",
+      "registriran": true,
+      "cijena": 25000,
+      "kilometri": 45000,
+      "gorivo": "benzin",
+      "vlasnik_od": 2021,
+      "oznaka": "Skuplji automobil"
+    },
+    {
+      "marka": "BMW",
+      "model": "X1",
+      "godina": 2020,
+      "boja": "crna",
+      "registriran": true,
+      "cijena": 22000,
+      "kilometri": 68000,
+      "gorivo": "dizel",
+      "vlasnik_od": 2023,
+      "oznaka": "Skuplji automobil"
+    },
+    {
+      "marka": "Fiat",
+      "model": "500",
+      "godina": 2015,
+      "boja": "bijela",
+      "registriran": false,
+      "cijena": 8500,
+      "kilometri": 92000,
+      "gorivo": "benzin",
+      "vlasnik_od": 2019,
+      "oznaka": "Povoljniji automobil"
+    },
+    {
+      "marka": "Toyota",
+      "model": "Auris",
+      "godina": 2016,
+      "boja": "siva",
+      "registriran": true,
+      "cijena": 12500,
+      "kilometri": 115000,
+      "gorivo": "dizel",
+      "vlasnik_od": 2020,
+      "oznaka": "Povoljniji automobil"
+    },
+    {
+      "marka": "BMW",
+      "model": "5 Series",
+      "godina": 2021,
+      "boja": "plava",
+      "registriran": true,
+      "cijena": 35000,
+      "kilometri": 38000,
+      "gorivo": "dizel",
+      "vlasnik_od": 2024,
+      "oznaka": "Skuplji automobil"
+    }
+  ]
+}
